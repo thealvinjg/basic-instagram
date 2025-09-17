@@ -3,10 +3,10 @@
 Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and React. It demonstrates the core features of modern social media apps like posting, liking, and following, while keeping the codebase approachable for learning and experimentation.
 
 ### Table of Contents  
-1. [Setting up your local environment](#Setting up your local environment)
-2. [Features overview](#Features overview)
+1. [Setting up your local environment](#setting-up-your-local-environment)
+2. [Features overview](#features-overview)
 3. [Usage](#usage)
-4. [Frequently Asked Questions (FAQ)](#Frequently Asked Questions (FAQ))
+4. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 5. [Footnotes](#footnotes)
 6. [Credits](#credits)
 

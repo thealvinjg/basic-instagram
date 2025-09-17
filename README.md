@@ -23,7 +23,7 @@ Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and
 - This will buld the front end using webpack and also start up a Flask server to handle backend tasks
 
 ### Architecture Diagram
-
+![A diagram explaning the architecture of the basic Instagram App](https://github.com/thealvinjg/basic-instagram/blob/main/tchm497_arc.jpg?raw=true)
 
 ### Features overview
 - Post Photos – Upload images that appear in your personal feed and other people's feed.

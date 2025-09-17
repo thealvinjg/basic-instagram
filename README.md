@@ -1,6 +1,6 @@
 
 # <img src="https://img.freepik.com/free-psd/instagram-application-logo_23-2151544100.jpg" alt="Instagram Logo" width="48"> Basic Instagram 
-Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and React. It demonstrates the core features of modern social media apps like posting, liking, and following, while keeping the codebase approachable for learning and experimentation.
+Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and React. It demonstrates the core features of modern social media apps like posting, liking, and following, while keeping the codebase approachable for learning and experimentation. Specifically, this project is designed for students and developers who want to understand the basics of full-stack development using Flask and React specifically.
 
 ### Table of Contents  
 1. [Setting up your local environment](#setting-up-your-local-environment)
@@ -40,13 +40,13 @@ Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and
 Here are some examples of the features implemented in this project.
 
 Double tap to like a post: If the post has not been liked, the user can click twice on the picture of a post, where it will increment the likes and show a heart animation.
-![Double tap animation](https://raw.githubusercontent.com/thealvinjg/basic-instagram/refs/heads/main/doubletap.mp4.gif)  
+![GIF showing double clicking on a post to like it](https://raw.githubusercontent.com/thealvinjg/basic-instagram/refs/heads/main/doubletap.mp4.gif)  
 
 "Explore" page: Users can find other people that they have not followed yet, view their profiles and also follow them.
-![Explore page animation](https://raw.githubusercontent.com/thealvinjg/basic-instagram/refs/heads/main/explore_page.mp4.gif)  
+![GIF showcasing the explore page and the option to follow people.](https://raw.githubusercontent.com/thealvinjg/basic-instagram/refs/heads/main/explore_page.mp4.gif)  
 
 Account editing: Users can edit their accounts.
-![Account editing animation](https://raw.githubusercontent.com/thealvinjg/basic-instagram/refs/heads/main/edit_account.mp4.gif)  
+![GIF showcasing the account editing page, in this case, the user changes their last name](https://raw.githubusercontent.com/thealvinjg/basic-instagram/refs/heads/main/edit_account.mp4.gif)  
 
 ### Frequently Asked Questions (FAQ)
 Q: Do I need Docker to run this?  

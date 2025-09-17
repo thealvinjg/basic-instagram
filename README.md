@@ -4,11 +4,12 @@ Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and
 
 ### Table of Contents  
 1. [Setting up your local environment](#setting-up-your-local-environment)
-2. [Features overview](#features-overview)
-3. [Usage](#usage)
-4. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-5. [Footnotes](#footnotes)
-6. [Credits](#credits)
+2. [Architecture Diagram](#architecture-diagram)
+3. [Features overview](#features-overview)
+4. [Usage](#usage)
+5. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+6. [Footnotes](#footnotes)
+7. [Credits](#credits)
 
 
 ### Setting up your local environment
@@ -20,6 +21,9 @@ Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and
 5. Run this command to populate our database initially with random values: `./bin/insta485db create`
 7. To run this locally do: `./bin/insta485run`
 - This will buld the front end using webpack and also start up a Flask server to handle backend tasks
+
+### Architecture Diagram
+
 
 ### Features overview
 - Post Photos – Upload images that appear in your personal feed and other people's feed.

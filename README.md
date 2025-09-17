@@ -62,3 +62,5 @@ A: Flask (backend), React (frontend), SQLite (database), Webpack (bundling).
 For information about how to deploy this application, check [Deploy a Flask App to AWS EC2](https://eecs485staff.github.io/p2-insta485-serverside/setup_aws.html).
 
 ### Credits
+- This project was developed based on the [EECS 485 P3 Clientside specification](https://eecs485staff.github.io/p3-insta485-clientside/).  
+- Instagram logo graphic provided by [Freepik](https://www.freepik.com/free-psd/instagram-application-logo_206467809.htm).  

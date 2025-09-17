@@ -1,6 +1,5 @@
 
-# Basic Instagram
-![alt text](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-icons/instagram-logo-fmckv9cihlafpkm0z9fem.png/instagram-logo-8enw8ic510451dx7a7vsd4.png?_a=DATAg1AAZAA0)
+# <img src="https://img.freepik.com/free-psd/instagram-application-logo_23-2151544100.jpg" alt="Instagram Logo" width="48"> Basic Instagram 
 Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and React. It demonstrates the core features of modern social media apps like posting, liking, and following, while keeping the codebase approachable for learning and experimentation.
 
 ### Table of Contents  

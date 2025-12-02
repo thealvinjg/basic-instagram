@@ -16,6 +16,7 @@ Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and
 
 
 ### Setting up your local environment
+**Prerequisites:** None. The included installation script (`insta485install`) automatically creates a virtual environment and installs all dependencies for you.
 1. Clone this repository
 2. Navigate to the repository: 
 ```

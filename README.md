@@ -7,7 +7,7 @@ Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and
 
 ### Table of Contents  
 1. [Setting up your local environment](#setting-up-your-local-environment)
-2. [Architecture Diagram](#architecture-diagram)
+2. [Architecture](#architecture)
 3. [Features overview](#features-overview)
 4. [Usage](#usage)
 5. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
@@ -40,7 +40,10 @@ chmod +x ./bin/insta485install ./bin/insta485db ./bin/insta485run
 ```
 - This will buld the front end using webpack and also start up a Flask server to handle backend tasks
 
-### Architecture Diagram
+### Architecture
+Tech stack used:
+Flask (backend), React (frontend), SQLite (database), Webpack (bundling)
+
 ![A diagram explaning the architecture of the basic Instagram App](https://github.com/thealvinjg/basic-instagram/blob/main/tchm497_arc.jpg?raw=true)
 
 ### Features overview
@@ -77,8 +80,14 @@ A: No, just Python 3.
 Q: How do I reset the database?  
 A: Run ./bin/insta485db reset. See ./bin/insta485db file for more options.
 
-Q: What stack does this use?  
-A: Flask (backend), React (frontend), SQLite (database), Webpack (bundling).
+Q: Why can't I run the Flask server? (Address already in use)  
+A: You likely have another instance of the server running in a background terminal. Close your open terminals or use `lsof -i :8000` to find and kill the process blocking the port.
+
+Q: Why can I not see the application in my browser?  
+A: Ensure the server script is running without errors in your terminal. Then, make sure you are using `http://localhost:8000/`. If you see a blank white page, check your terminal for Webpack/Javascript build errors.
+
+Q: What are the default login credentials?
+A: After resetting the database, you can log in as `awdeorio` with the password `password`.
 
 ### Footnotes
 For information about how to deploy this application, check [Deploy a Flask App to AWS EC2](https://eecs485staff.github.io/p2-insta485-serverside/setup_aws.html).

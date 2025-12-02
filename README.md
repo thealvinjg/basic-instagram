@@ -1,5 +1,8 @@
 
 # <img src="https://img.freepik.com/free-psd/instagram-application-logo_23-2151544100.jpg" alt="Instagram Logo" width="48"> Basic Instagram 
+
+> **Project Status:** 🧊 **Archived**. This project is no longer in active development. The codebase is preserved here as an educational reference for students learning Flask and React, but no further updates or bug fixes are planned.
+
 Basic Instagram is a simplified clone of Instagram built with Flask, SQLite, and React. It demonstrates the core features of modern social media apps like posting, liking, and following, while keeping the codebase approachable for learning and experimentation. Specifically, this project is designed for students and developers who want to understand the basics of full-stack development using Flask and React specifically.
 
 ### Table of Contents  

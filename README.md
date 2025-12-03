@@ -87,7 +87,7 @@ A: You likely have another instance of the server running in a background termin
 Q: Why can I not see the application in my browser?  
 A: Ensure the server script is running without errors in your terminal. Then, make sure you are using `http://localhost:8000/`. If you see a blank white page, check your terminal for Webpack/Javascript build errors.
 
-Q: What are the default login credentials?
+Q: What are the default login credentials?  
 A: After resetting the database, you can log in as `awdeorio` with the password `password`.
 
 ### Footnotes

@@ -42,12 +42,11 @@ chmod +x ./bin/insta485install ./bin/insta485db ./bin/insta485run
 - This will buld the front end using webpack and also start up a Flask server to handle backend tasks
 
 ### Architecture
-Tech stack used:
-Flask (backend), React (frontend), SQLite (database), Webpack (bundling)
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="50" alt="flask icon"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" alt="react icon"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="50" alt="sqlite icon"/>
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" width="50" alt="webpack icon"/>
+Tech stack used:  
+Flask (backend) <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="50" alt="flask icon"/>  
+React (frontend) <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="50" alt="react icon"/>  
+SQLite (database) <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="50" alt="sqlite icon"/>  
+Webpack (bundling) <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" width="50" alt="webpack icon"/>  
 
 ![A diagram explaning the architecture of the basic Instagram App](https://github.com/thealvinjg/basic-instagram/blob/main/tchm497_arc.jpg?raw=true)
 

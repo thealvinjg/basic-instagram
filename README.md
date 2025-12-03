@@ -44,6 +44,13 @@ chmod +x ./bin/insta485install ./bin/insta485db ./bin/insta485run
 ### Architecture
 Tech stack used:
 Flask (backend), React (frontend), SQLite (database), Webpack (bundling)
+![Flask icon](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png)
+
+![React icon](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png)
+
+![SQLite icon](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png)
+
+![Webpack icon](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png)
 
 ![A diagram explaning the architecture of the basic Instagram App](https://github.com/thealvinjg/basic-instagram/blob/main/tchm497_arc.jpg?raw=true)
 
